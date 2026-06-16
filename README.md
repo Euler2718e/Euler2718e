@@ -1,4 +1,4 @@
-<img src="https://chatgpt.com/s/m_6a3093969cb08191bbf58910165a4dd0">
+<img width="2172" height="724" alt="euler-banner" src="https://github.com/user-attachments/assets/bd2c0f5c-d53c-4cea-a5c7-c323b1dc8bac" />
 
 # Euler
 
