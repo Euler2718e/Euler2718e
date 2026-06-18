@@ -1,10 +1,13 @@
+<img width="2172" height="724" alt="euler-banner2" src="https://github.com/user-attachments/assets/1282bc88-b95c-4fba-bcbe-b6579c665b48" />
+
 # Euler
 
-I build small, useful AI and productivity tools, mostly local-first apps, terminal apps, and developer utilities.
-Currently building Kairos, a terminal-based smart calendar powered by local AI.
+I build local-first AI tools, terminal apps, and developer utilities. 
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" style="margin-right: 4px"></div>
+Currently building **Kairos**, a terminal-based smart calendar powered by local models.
 
-## Contact
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+  
+*TypeScript · PyTorch · Python · Ollama · Swift*
 
-<p align="left"><a href="https://www.linkedin.com/in/jakob-buran-bøe-703256410/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/jakoburan" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+[LinkedIn](https://www.linkedin.com/in/jakob-buran-bøe-703256410/) · [Twitter](https://twitter.com/jakoburan)
