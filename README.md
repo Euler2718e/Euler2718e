@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="euler-banner2" src="https://github.com/user-attachments/assets/1282bc88-b95c-4fba-bcbe-b6579c665b48" />
+<img width="2340" height="1272" alt="wallpaper3-e" src="https://github.com/user-attachments/assets/e697f7fe-075e-4f5b-af16-147e185b06e2" />
 
 # Euler
 
