@@ -6,7 +6,7 @@ I build local-first AI tools, terminal apps, and developer utilities.
 
 Currently building **Kairos**, a terminal-based smart calendar powered by local models.
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
   
 *TypeScript · PyTorch · Python · Ollama · Swift*
 
