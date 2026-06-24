@@ -1,6 +1,6 @@
-<img width="2340" height="1272" alt="wallpaper3-e" src="https://github.com/user-attachments/assets/e697f7fe-075e-4f5b-af16-147e185b06e2" />
+<img width="1672" height="941" alt="wallpaper2-e" src="https://github.com/user-attachments/assets/cde6d5d1-48a9-44b2-8dbd-944c699bbc93" />
 
-# Euler
+# Euler 
 
 I build local-first AI tools, terminal apps, and developer utilities. 
 
